@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="mapletool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mapletool_jar</output-path>
+    <root id="root">
+      <element id="archive" name="mapletool.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="mapletool" />
+      </element>
+    </root>
+  </artifact>
+</component>
